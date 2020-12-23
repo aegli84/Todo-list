@@ -1,4 +1,4 @@
-## Todo-list
+## Wunder-Todo-list
 
 ### Classic Todo List made with HTML, CSS and JS
 
